@@ -1,0 +1,13 @@
+C:\Users\Jing\Desktop\cleancode\bin\Debug\netcoreapp3.1\cleancode.exe
+C:\Users\Jing\Desktop\cleancode\bin\Debug\netcoreapp3.1\cleancode.deps.json
+C:\Users\Jing\Desktop\cleancode\bin\Debug\netcoreapp3.1\cleancode.runtimeconfig.json
+C:\Users\Jing\Desktop\cleancode\bin\Debug\netcoreapp3.1\cleancode.runtimeconfig.dev.json
+C:\Users\Jing\Desktop\cleancode\bin\Debug\netcoreapp3.1\cleancode.dll
+C:\Users\Jing\Desktop\cleancode\bin\Debug\netcoreapp3.1\cleancode.pdb
+C:\Users\Jing\Desktop\cleancode\obj\Debug\netcoreapp3.1\cleancode.csprojAssemblyReference.cache
+C:\Users\Jing\Desktop\cleancode\obj\Debug\netcoreapp3.1\cleancode.csproj.CoreCompileInputs.cache
+C:\Users\Jing\Desktop\cleancode\obj\Debug\netcoreapp3.1\cleancode.AssemblyInfoInputs.cache
+C:\Users\Jing\Desktop\cleancode\obj\Debug\netcoreapp3.1\cleancode.AssemblyInfo.cs
+C:\Users\Jing\Desktop\cleancode\obj\Debug\netcoreapp3.1\cleancode.dll
+C:\Users\Jing\Desktop\cleancode\obj\Debug\netcoreapp3.1\cleancode.pdb
+C:\Users\Jing\Desktop\cleancode\obj\Debug\netcoreapp3.1\cleancode.genruntimeconfig.cache

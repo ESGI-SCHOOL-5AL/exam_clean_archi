@@ -1,0 +1,3 @@
+interface IPrice {
+    int GetPrice();
+}
